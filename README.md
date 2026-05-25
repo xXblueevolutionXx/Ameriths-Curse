@@ -1,0 +1,2 @@
+# Ameriths-Curse
+Check Readme
