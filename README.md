@@ -32,7 +32,7 @@ An immersive, gothic expansion pack for Eaglerforge 1.12 that plunges your world
 
 * 🗡️ **The Monster Slayer** — A heavy, dark-forged blade that inflicts massive bonus damage variables specifically against undead, vampire, and ghostly entity targets.
 * 🌀 **The Ghost Catcher** — A highly specialized tactical tool. Striking a Restless Ghost triggers a localized smoke particle explosion, safely containing the spirit and dissolving its entity data.
-* 🔫 **The Six-Shooter Revolver** — A ranged weapon that allows you to fight back against the horrors from a distance, firing high-velocity precision projectiles through the fog.
+* 🔫 **The Rapid-Fire Uzi** — A ranged weapon that allows you to fight back against the horrors from a distance, firing high-velocity precision projectiles through the fog.
 * 🧅 **Wild Onions** — A brand new agricultural crop found growing in swamp biomes. Eat them for a quick nutritional boost, or use them in crafting to repel certain nocturnal predators.
 * 🌾 **Cursed Grass (Grass Re-skin)** — The green foliage of the overworld has died out, replaced by a rotted, ash-grey texture profile that blankets the landscape.
 
